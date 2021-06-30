@@ -1,0 +1,10 @@
+.scrollbar::-webkit-scrollbar {
+  width: 0;
+  background: transparent; /* make scrollbar transparent on Chrome, Opera*/
+}
+
+/* make scrollbar transparent on Firefox, IE and Edge*/
+.scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
