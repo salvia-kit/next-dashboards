@@ -32,11 +32,9 @@ export default function DashboardProvider({ children }) {
   // close side navigation on click outside when viewport is less than 1024px
   React.useEffect(() => {
     const handleOutsideClick = (event) => {
-      if (window.innerWidth < 1024) {
-        if (!ref.current?.contains(event.target)) {
-          if (!open) return;
-          setOpen(false);
-        }
+      if (!ref.current?.contains(event.target)) {
+        if (!open) return;
+        setOpen(false);
       }
     };
     window.addEventListener('click', handleOutsideClick);
