@@ -1,6 +1,6 @@
 import SidenavItems from './items';
 import SidenavHeader from './header';
-import css from './index.module.css';
+import css from './style.module.css';
 import { useToggle } from '../provider/context';
 
 const style = {
