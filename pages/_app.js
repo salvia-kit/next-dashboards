@@ -6,7 +6,11 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Salvia-kit Dashboard v4 Next.js</title>
+        <title>
+          {process.env.NODE_ENV === 'development'
+            ? 'Salvia-kit Dashboard v4 Next.js'
+            : 'Salvia-kit Dashboard v4 Demo'}
+        </title>
       </Head>
       <DashboardLayout>
         <Component {...pageProps} />
