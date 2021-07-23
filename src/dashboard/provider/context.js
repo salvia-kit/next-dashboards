@@ -18,12 +18,12 @@ export default function DashboardProvider({ children }) {
   // it's triggered when viewport is less than 1024px
   React.useEffect(() => {
     document.documentElement.style.overflow = 'hidden';
-    if (open && window.innerWidth < 1024) {
+    if (open) {
       router.events.on('routeChangeStart', () => setOpen(false));
     }
 
     return () => {
-      if (open && window.innerWidth < 1024) {
+      if (open) {
         router.events.off('routeChangeStart', () => setOpen(false));
       }
     };
