@@ -28,7 +28,7 @@ export default function DashboardProvider({ children }) {
     };
   }, [open, router]);
 
-  // close side navigation on click outside when viewport is less than 1024px
+  // close side navigation on click outside
   React.useEffect(() => {
     const handleOutsideClick = (event) => {
       if (!ref.current?.contains(event.target)) {
