@@ -15,7 +15,6 @@ export default function DashboardProvider({ children }) {
 
   // set the html tag overflow to hidden
   // close side navigation on mobile when route starts changing
-  // it's triggered when viewport is less than 1024px
   React.useEffect(() => {
     document.documentElement.style.overflow = 'hidden';
     if (open) {
