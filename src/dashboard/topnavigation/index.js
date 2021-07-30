@@ -98,7 +98,7 @@ export default function TopNavigation() {
             <a href="#" className="block relative">
               <img
                 alt="Maurice Lokumba"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623601503/Assets/mauricio_hb9kmh.jpg"
+                src="/images/1.jpg"
                 className="h-10 mx-auto object-cover rounded-full w-10"
               />
             </a>
