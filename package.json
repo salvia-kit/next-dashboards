@@ -28,21 +28,22 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "next": "^11.0.0",
+    "@reach/portal": "^0.16.0",
+    "next": "^11.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.6",
+    "autoprefixer": "^10.3.5",
     "eslint": "^7.28.0",
-    "eslint-config-next": "^11.0.0",
+    "eslint-config-next": "^11.1.2",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "lint-staged": "^11.0.0",
-    "postcss": "^8.3.2",
-    "prettier": "^2.3.1",
-    "tailwindcss": "^2.2.2",
-    "husky": "^6.0.0"
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.2",
+    "lint-staged": "^11.1.2",
+    "postcss": "^8.3.8",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.15"
   },
   "lint-staged": {
     "*.{js,jsx}": [

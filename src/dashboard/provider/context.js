@@ -13,10 +13,13 @@ export default function DashboardProvider({ children }) {
     setOpen((prevState) => !prevState);
   }, []);
 
-  // set the html tag overflow to hidden
-  // close side navigation when route starts changing
+  // set the html tag style overflow to hidden
   React.useEffect(() => {
     document.documentElement.style.overflow = 'hidden';
+  }, []);
+
+  // close side navigation when route changes
+  React.useEffect(() => {
     if (open) {
       router.events.on('routeChangeStart', () => setOpen(false));
     }
