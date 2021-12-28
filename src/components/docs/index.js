@@ -30,14 +30,6 @@ export default function Docs() {
         <div className="pl-2">
           <div className="flex mt-4 mb-3">
             <FolderIcon />
-            <span className="pl-2">pages</span>
-          </div>
-          <div className="flex mt-4 mb-3">
-            <FolderIcon />
-            <span className="pl-2">public</span>
-          </div>
-          <div className="flex mt-4 mb-3">
-            <FolderIcon />
             <span className="pl-2">src</span>
           </div>
           <div className="pl-5 flex mb-3">

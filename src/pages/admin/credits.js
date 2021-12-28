@@ -1,4 +1,4 @@
-import Content from '../../src/components/content';
+import Content from '../../components/content';
 
 export default function CreditsPage() {
   return <Content title="Credits" />;
