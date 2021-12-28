@@ -1,5 +1,6 @@
 {
-  "extends": ["plugin:prettier/recommended", "next", "next/core-web-vitals"],
+  "root": true,
+  "extends": ["plugin:prettier/recommended", "next/core-web-vitals"],
   "rules": {
     "prettier/prettier": [
       "warn",
