@@ -24,9 +24,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint && eslint '*/**/*.{js,jsx}' --fix",
+    "lint": "next lint && eslint --fix .",
     "prepare": "husky install",
-    "format": "prettier '*/**/*.{js,jsx}' --write"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@reach/portal": "^0.16.0",
@@ -35,16 +35,16 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
-    "eslint": "^8.5.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.40.0",
     "eslint-config-next": "^13.4.1",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "husky": "^7.0.4",
-    "lint-staged": "^12.1.4",
-    "postcss": "^8.4.5",
-    "prettier": "^2.5.1",
-    "tailwindcss": "^3.0.7"
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "postcss": "^8.4.23",
+    "prettier": "^2.8.8",
+    "tailwindcss": "^3.3.2"
   },
   "lint-staged": {
     "*.{js,jsx}": [
