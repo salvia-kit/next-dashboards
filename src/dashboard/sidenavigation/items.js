@@ -20,7 +20,7 @@ export default function SidenavItems() {
       <li>
         {data.map((item) => (
           <Link href={item.link} key={item.title}>
-            <a className={style.link}>
+            <div className={style.link}>
               <div
                 className={`p-2 ${item.link === asPath ? style.active : ''}`}
               >
@@ -31,7 +31,7 @@ export default function SidenavItems() {
               >
                 {item.title}
               </span>
-            </a>
+            </div>
           </Link>
         ))}
       </li>
