@@ -1,0 +1,59 @@
+/* SIDEBAR */
+
+.sidebar::-webkit-scrollbar {
+  width: 0;
+  background: transparent; /* hide sidenav scrollbar on Chrome, Opera and other webkit Browsers*/
+}
+
+/* hide sidenav scrollbar on Firefox, IE and Edge*/
+.sidebar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
+/* LAYOUT */
+
+.background{
+  background-image: url("mac.webp");
+  background-size: cover;
+  background-position: center;
+}
+
+
+.container:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.72) 0%,
+          rgba(255, 255, 255, 0.45) 100%
+  );
+  -webkit-backdrop-filter: saturate(3);
+  backdrop-filter: saturate(3);
+}
+
+.content {
+  background-color: rgb(255 255 255 / 31%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.main {
+  background-color: rgb(255 255 255 / 31%);
+}
+
+.main::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 10px;
+}
+
+.main::-webkit-scrollbar-thumb {
+  background: rgb(1 2 3 / 40%);
+  border-radius: 10px;
+}
+
