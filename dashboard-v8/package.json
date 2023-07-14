@@ -1,0 +1,47 @@
+{
+  "name": "salvia-kit-dashboard-v8-nextjs",
+  "version": "1.0.0",
+  "author": {
+    "name": "Enoch Ndika"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "react",
+    "components",
+    "dashboard",
+    "admin",
+    "tailwindcss",
+    "next",
+    "Next.js",
+    "layout"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint && eslint '*/**/*.{ts,tsx}' --fix",
+    "format": "prettier '*/**/*.{ts,tsx}' --write"
+  },
+  "dependencies": {
+    "next": "13.4.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "@types/react": "18.2.12",
+    "@types/react-dom": "18.2.5",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.6",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-tailwindcss": "^3.12.1",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "postcss": "8.4.24",
+    "prettier": "^2.8.8",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.3"
+  }
+}
