@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="930061b5-1ce8-4e39-920f-d0fd4cde93cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/public/images/jsx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/components/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/components/docs/Icons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/components/docs/Snippet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/components/docs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/Overlay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/TopBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/mac.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/SidebarHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/SidebarItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/data.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/AppsIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/ArIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/DocIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/GraphicDesignIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/IllustrationIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/PhotographyIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/UpdatesIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/UxIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/sidebar/icons/VideosIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/dashboard/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/ar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/documentation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/graphic-design.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/illustration.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/photography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/updates.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/ux.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/admin/videos.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v1/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/public/images/jsx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/components/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/components/docs/Icons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/components/docs/Snippet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/components/docs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/Overlay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/TopBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/mac.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/SidebarHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/SidebarItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/data.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/AppsIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/ArIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/DocIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/GraphicDesignIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/IllustrationIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/PhotographyIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/UpdatesIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/UxIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/sidebar/icons/VideosIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/dashboard/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/ar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/documentation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/graphic-design.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/illustration.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/photography.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/updates.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/ux.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/admin/videos.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v2/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/public/images/jsx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/components/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/components/docs/Icons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/components/docs/Snippet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/components/docs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/Overlay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/TopBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/SidebarHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/SidebarItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/data.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/AppsIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/ArIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/CalendarIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/DocIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/GraphicDesignIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/HomeIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/IllustrationIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/PhotographyIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/ProjectIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/ReportIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/SettingsIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/TaskIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/TimeManageIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/UpdatesIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/UxIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/sidebar/icons/VideosIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/dashboard/style.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/calendar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/documentation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/reports.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/settings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/tasks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/admin/time-manage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard-v3/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SZUXJnpCQPdxN3l1fiUX8MQH5w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930061b5-1ce8-4e39-920f-d0fd4cde93cb" name="Changes" comment="" />
+      <created>1689353636581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689353636581</updated>
+      <workItem from="1689353637840" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
