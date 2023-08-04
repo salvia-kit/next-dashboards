@@ -56,7 +56,7 @@ export function DashboardProvider({ children }: DashboardProviderProps) {
   );
 }
 
-// custom hook to consume all context values { open, ref, toggle }
+// custom hook to consume all context values { sidebarOpen, toggleSidebar, closeSidebar }
 export function useDashboardContext() {
   return React.useContext(Context);
 }

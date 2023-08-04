@@ -1,6 +1,6 @@
 import { useDashboardContext } from "./Provider";
 
-// The overlay will only be visible on small screens to emphasize the focus on the side navigation when it is open.
+// The overlay will only be visible on small screens to emphasize the focus on Sidebar when it is open.
 export function Overlay() {
   const { closeSidebar, sidebarOpen } = useDashboardContext();
   return (
